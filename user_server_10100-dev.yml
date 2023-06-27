@@ -11,7 +11,7 @@ spring:
         name: user-server
     datasource:
         username: root
-        password: 908520
+        password: 9085201
         url: jdbc:mysql://localhost:3306/elm?characterEncoding=utf-8&serverTimezone=UTC
         driver-class-name: com.mysql.cj.jdbc.Driver
     main:
